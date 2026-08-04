@@ -1,2 +1,7 @@
+<div align="center">
+  
 # Biblia da Programacao
-# Programo Progamareis Programaras
+# Versículo 1
+  <p><strong>Programo Progamareis Programaras</strong></p>
+  
+</div>
